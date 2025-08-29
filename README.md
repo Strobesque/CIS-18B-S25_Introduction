@@ -1,5 +1,5 @@
 # CIS-18B-S25_Introduction
 
-Cameron Beggs
-John O'Connor
-37654
+Student: Cameron Beggs  
+Teacher: John O'Connor  
+Section: 37654
